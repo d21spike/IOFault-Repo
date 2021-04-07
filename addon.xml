@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<addon id="iofault-repo" name="IOFault Repository" provider-name="d21spike" version="1.0.56">
-    <extension name="IOFault Repository" point="xbmc.addon.repository">
-        <info compressed="false">https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">IOFault Repository</summary>
-        <description lang="en_GB">A personal repository of Kodi add-ons.</description>
-        <platform>all</platform>
-        <source>https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons</source>
-        <assets>
-            <icon>icon.png</icon>
-        </assets>
-    </extension>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<addon id="iofault-repo" name="IOFault Repository" provider-name="d21spike" version="2021.4.7">
+  <extension name="IOFault Repository" point="xbmc.addon.repository">
+    <info compressed="false">https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">IOFault Repository</summary>
+    <description lang="en_GB">A personal repository of Kodi add-ons.</description>
+    <platform>all</platform>
+    <source>https://raw.githubusercontent.com/d21spike/IOFault-Repo/master/addons</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
