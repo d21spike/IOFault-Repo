@@ -32,7 +32,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="script.sling_guide" version="2021.4.9.1" name="Sling Guide" provider-name="IOFault">
+  <addon id="script.sling_guide" version="2021.4.12.1" name="Sling Guide" provider-name="IOFault">
     <requires>
       <import addon="xbmc.python" version="2.26.0" />
       <import addon="script.module.requests" />
