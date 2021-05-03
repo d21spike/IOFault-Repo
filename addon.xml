@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<addon id="iofault-repo" name="IOFault Repository" provider-name="d21spike" version="2021.4.30">
+<addon id="iofault-repo" name="IOFault Repository" provider-name="d21spike" version="2021.5.3">
   <extension name="IOFault Repository" point="xbmc.addon.repository">
     <info compressed="false">https://raw.githubusercontent.com/d21spike/IOFault-Repo/Matrix/addons/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/d21spike/IOFault-Repo/Matrix/addons/addons.xml.md5</checksum>
